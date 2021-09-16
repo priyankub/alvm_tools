@@ -1,0 +1,2 @@
+run -i alvm_runtime '(mod (A B) (include "macros.alvm") (or))'
+()

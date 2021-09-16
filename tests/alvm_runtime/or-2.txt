@@ -1,0 +1,2 @@
+run -i alvm_runtime -i alvm_runtime '(mod (A B) (include "macros.alvm") (or (= 0 1) (= 2 4) (= 3 3)))'
+(q . 1)
